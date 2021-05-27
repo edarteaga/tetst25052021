@@ -1,0 +1,35 @@
+[33mcommit 0bda65157c632c5795fa67d8144014ab16e8562a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: edarteaga <camused@hotmail.es>
+Date:   Tue May 25 18:20:43 2021 -0500
+
+    Se modifico el app
+
+[33mcommit b24eec8d3321101a76f4ce64e4c13d8f6181de96[m
+Author: edarteaga <camused@hotmail.es>
+Date:   Tue May 25 17:58:19 2021 -0500
+
+    Se modifico el html
+
+[33mcommit bf612dd98dd5310c39de31fc93493417691b158b[m
+Author: edarteaga <camused@hotmail.es>
+Date:   Tue May 25 17:56:40 2021 -0500
+
+    Agregamos estilos y app
+
+[33mcommit 381f48ffe2e648e920d4721f6138f13b64281e3c[m
+Author: edarteaga <camused@hotmail.es>
+Date:   Tue May 25 17:47:25 2021 -0500
+
+    Agregamos index.html
+
+[33mcommit d466a4f6a1aae3ad9ec828a5d8a6480286deeb5e[m
+Author: edarteaga <camused@hotmail.es>
+Date:   Tue May 25 17:25:46 2021 -0500
+
+    Se añadio archivo Hola.txt y saludo
+
+[33mcommit b889e2b007db7cdc62c45373f96b7cadbbfb6ab3[m
+Author: edarteaga <56207581+edarteaga@users.noreply.github.com>
+Date:   Tue May 25 14:56:17 2021 -0500
+
+    Initial commit
